@@ -6,4 +6,4 @@
 
 ## 模型架构如下：
 
-![alt 属性文本](image.pnge)
+<img src="image.png" width = "500" height = "350" alt="图片名称" align=center />
